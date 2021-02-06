@@ -1,0 +1,4 @@
+# ignore everything except .gitignore
+# this is because the build directory will keep on changing
+*
+!.gitignore
